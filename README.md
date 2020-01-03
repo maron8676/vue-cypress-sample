@@ -1,4 +1,4 @@
-# sample
+# vue-cypress-sample
 
 ## Project setup
 ```
